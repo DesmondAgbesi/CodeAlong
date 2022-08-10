@@ -1,3 +1,4 @@
+import React from "react";
 import baby from "../assets/Images/download (2).jfif";
 
 export const Image = () => {
